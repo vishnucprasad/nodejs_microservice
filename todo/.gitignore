@@ -1,0 +1,15 @@
+/node_modules
+
+#log files
+/logs
+
+# misc
+.DS_Store
+.env
+.env.dev
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+yarn-error.log
